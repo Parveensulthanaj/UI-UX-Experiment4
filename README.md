@@ -27,16 +27,22 @@ Structure a step progress header and a 2-column layout: Contact & Shipping Infor
 ## Output:
 ### SCREEN 1:
 <img width="384" height="238" alt="image" src="https://github.com/user-attachments/assets/9cd1d215-cdfd-4718-92e1-831b3d50f3b5" />
+
 ### SCREEN 2:
 <img width="362" height="226" alt="image" src="https://github.com/user-attachments/assets/63d527fb-3baa-4779-936d-66fff68e1997" />
+
 ### SCREEN 3:
 <img width="361" height="224" alt="image" src="https://github.com/user-attachments/assets/7756df30-263f-4530-b291-79dcc64249d7" />
+
 ### SCREEN 4:
 <img width="358" height="224" alt="image" src="https://github.com/user-attachments/assets/07fa4f59-e141-4b7a-a75c-a0a1f92c003c" />
+
 ### SCREEN 5:
 <img width="360" height="224" alt="image" src="https://github.com/user-attachments/assets/671f77a1-7184-440e-a49c-0d7cb8a86b10" />
+
 ### OVERALL SCREEN VIEW:
 <img width="357" height="175" alt="image" src="https://github.com/user-attachments/assets/6c53ff99-6fdb-4af0-a27b-fce8f8eda921" />
+
 
 
 ## Result:
